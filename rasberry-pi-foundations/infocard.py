@@ -1,5 +1,5 @@
 name = "Walter"
-age = 18
+age = 17
 adult = False
 interests = ["programming", "robotics", "gaming"]
 why_here = "I want to learn more about Raspberry Pi and how to create innovative projects with it."
